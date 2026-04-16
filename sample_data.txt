@@ -1,0 +1,6 @@
+/api/feed
+/api/likePost
+/api/comment
+/api/feed
+/api/likePost
+/api/randomEndpoint
